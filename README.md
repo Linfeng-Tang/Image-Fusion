@@ -259,8 +259,7 @@
         <td>PIAFusion</td>
         <td>PIAFusion: A progressive infrared and visible image fusion&nbsp;&nbsp;&nbsp;network based on illumination aware</td>
         <td><a href="https:www.sciencedirect.com/science/article/abs/pii/S156625352200032X">Paper</a></td>
-        <td><a href="https:github.com/Linfeng-Tang/PIAFusion" target="_blank" rel="noopener noreferrer">Code</a></td>
-        
+        <td><a href="https:github.com/Linfeng-Tang/PIAFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
         <td>InfFus</td>
         <td>CNN</td>
         <td>无监督</td>
