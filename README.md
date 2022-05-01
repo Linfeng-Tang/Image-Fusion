@@ -270,3 +270,149 @@
     
 
 ### Medical image fusion
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>监督范式</th>
+        <th>年份</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>D2LE</td>
+        <td>A Bilevel Integrated Model With Data-Driven Layer Ensemble for&nbsp;&nbsp;&nbsp;Multi-Modality Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9293146">Paper</a></td>
+        <td></td>
+        <td>TIP </td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>HAF</td>
+        <td>Searching a Hierarchically Aggregated Fusion&nbsp;&nbsp;&nbsp;Architecture for Fast Multi-Modality Image Fusion</td>
+        <td><a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475299?casa_token=tT48gSwVWjkAAAAA:QaDUAB7nLzWcByiAESzOTAgFjdh5kLxS8J612shuDn3RLLIOcU1AX7AhcvYT9UlGTub1mi85Tws">Paper</a></td>
+        <td><a href="https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion">Code</a></td>
+        <td>ACM MM</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>CNN</td>
+        <td>A medical image fusion method based on&nbsp;&nbsp;&nbsp;convolutional neural networks</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8009769/">Paper</a></td>
+        <td></td>
+        <td>ICIF</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2017</td>
+      </tr>
+      <tr>
+        <td>Zero-LMF</td>
+        <td>Zero-Learning Fast Medical Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9011178">Paper</a></td>
+        <td><a href="https://github.com/PanPapag/Zero-Learning-Fast-Medical-Image-Fusion">Code</a></td>
+        <td>ICIF</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>CCN-CP</td>
+        <td>Multi-modality medical image fusion using convolutional neural&nbsp;&nbsp;&nbsp;network and contrast pyramid</td>
+        <td><a href="https://www.mdpi.com/1424-8220/20/8/2169">Paper</a></td>
+        <td></td>
+        <td>Sensors</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>EMFusion</td>
+        <td>EMFusion: An unsupervised enhanced medical&nbsp;&nbsp;&nbsp;image fusion network</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253521001275?casa_token=8Z3_V5mzH4YAAAAA:8nFKQlHpIrI_P965NSYYEL_dAYRFrjeASLO3ZPK2BXwGRW60yrszasTBxgCckwhGn987UyWjxhI2">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu/EMFusion">Code</a></td>
+        <td>IF</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>DPCN-Fusion</td>
+        <td>Green Fluorescent Protein and Phase Contrast&nbsp;&nbsp;&nbsp;Image Fusion Via Detail Preserving Cross Network</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9442298">Paper</a></td>
+        <td><a href="https://github.com/yuliu316316/DPCN-Fusion">Code</a></td>
+        <td>TCI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>MSPRN</td>
+        <td>A multiscale residual pyramid attention&nbsp;&nbsp;&nbsp;network for medical image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1746809421000859?casa_token=rNLcNhcKwrwAAAAA:aHLHOTkdOzEqlYEDDBhX0PjLQhG0Sxel6u--8l72Ok4bJeFJPA8iuPSJeIGtYxM9aNAyBoW2fcxw">Paper</a></td>
+        <td><a href="https://github.com/jeffsonfu/MSRPAN">Code</a></td>
+        <td>BSPC</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>DDcGAN</td>
+        <td>Learning a Generative Model for Fusing Infrared and Visible&nbsp;&nbsp;&nbsp;Images via Conditional Generative Adversarial Network with Dual&nbsp;&nbsp;&nbsp;Discriminators</td>
+        <td><a href="https://www.ijcai.org/proceedings/2019/0549.pdf">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu/DDcGAN">Code</a></td>
+        <td>IJCAI</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>DDcGAN</td>
+        <td>DDcGAN: A Dual-Discriminator Conditional&nbsp;&nbsp;&nbsp;Generative Adversarial Network for Multi-Resolution Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9502544/">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu/DDcGAN">Code</a></td>
+        <td>TIP </td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>GFPPC-GAN</td>
+        <td>Green Fluorescent Protein and Phase-Contrast&nbsp;&nbsp;&nbsp;Image Fusion via Generative Adversarial Networks</td>
+        <td><a href="https://www.hindawi.com/journals/cmmm/2019/5450373/">Paper</a></td>
+        <td></td>
+        <td>CMMM</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>MGMDcGAN</td>
+        <td>Medical Image Fusion Using Multi-Generator&nbsp;&nbsp;&nbsp;Multi-Discriminator Conditional Generative Adversarial Network</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9042283/">Paper</a></td>
+        <td><a href="https://github.com/HaoZhang1018/MGMDcGAN">Code</a></td>
+        <td>Access </td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>DCGAN</td>
+        <td>Medical image fusion method based on dense&nbsp;&nbsp;&nbsp;block and deep convolutional generative adversarial network</td>
+        <td><a href="https://link.springer.com/article/10.1007/s00521-020-05421-5">Paper</a></td>
+        <td></td>
+        <td>NCA</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+    </tbody>
+    </table>
