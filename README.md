@@ -1,6 +1,6 @@
-# Image Fusion
-## Multi-modal image fusion
-### Infrared and visible image fusion
+# 图像融合(Image Fusion)
+## 多模图像融合(Multi-Modal Image Fusion)
+### 红外和可见光图像融合(Infrared and visible image fusion)
 <table>
     <thead>
       <tr>
@@ -269,7 +269,7 @@
     </table>
     
 
-### Medical image fusion
+### 医学图像融合(Medical image fusion)
 <table>
     <thead>
       <tr>
