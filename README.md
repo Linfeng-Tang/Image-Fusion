@@ -416,3 +416,657 @@
       </tr>
     </tbody>
     </table>
+    
+## Digital Photography Image Fusion
+### Multi-exposure image fusion
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>监督范式</th>
+        <th>年份</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>DeepFuse</td>
+        <td>DeepFuse: A Deep Unsupervised Approach for Exposure Fusion&nbsp;&nbsp;&nbsp;with Extreme Exposure Image Pairs</td>
+        <td><a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Prabhakar_DeepFuse_A_Deep_ICCV_2017_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/hli1221/Imagefusion_deepfuse">Code</a></td>
+        <td>ICCV</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2017</td>
+      </tr>
+      <tr>
+        <td>CNN</td>
+        <td>Multi-exposure fusion with CNN features</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8451689/">Paper</a></td>
+        <td><a href="https://github.com/xiaohuiben/MEF-CNN-feature">Code</a></td>
+        <td>ICIP</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2018</td>
+      </tr>
+      <tr>
+        <td>MEF-Net</td>
+        <td>Deep guided learning for fast multi-exposure image fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8906233">Paper</a></td>
+        <td><a href="https://github.com/makedede/MEFNet">Code</a></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>ICEN</td>
+        <td>Multi-exposure high dynamic range imaging with informative&nbsp;&nbsp;&nbsp;content enhanced network</td>
+        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231219318089?casa_token=jbVTcQ7pOcoAAAAA:YDp0aWea0SCJaY8AstIN4r0PO--bL-3fxkidb41bEHXatep0PDGo5MvHY7Gtt-gLIR8yJEcFgcs">Paper</a></td>
+        <td></td>
+        <td>NC</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>MEF-GAN</td>
+        <td>MEF-GAN: Multi-Exposure Image Fusion via Generative&nbsp;&nbsp;&nbsp;Adversarial Networks</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9112609">Paper</a></td>
+        <td><a href="https://github.com/jiayi-ma/MEF-GAN">Code</a></td>
+        <td>TIP</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>CF-Net</td>
+        <td>Deep coupled feedback network for joint exposure fusion and&nbsp;&nbsp;&nbsp;image super-resolutions</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9357931">Paper</a></td>
+        <td><a href="https://github.com/ytZhang99/CF-Net">Code</a></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>UMEF</td>
+        <td>Deep unsupervised learning based on color un-referenced loss&nbsp;&nbsp;&nbsp;functions for multi-exposure image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253520303419?casa_token=w8HTDPj2GWwAAAAA:GS6sF3Sx8aYvm4-k24DcEw59Jdci-r2dyfiPPOiLHN916-ZTI2VOaoSIeq1u8eUmg_JyLlYuCQ">Paper</a></td>
+        <td><a href="https://github.com/cathying-cq/UMEF">Code</a></td>
+        <td>InFus</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>PA-AGN</td>
+        <td>Two exposure fusion using prior-aware generative adversarial&nbsp;&nbsp;&nbsp;network</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9456042">Paper</a></td>
+        <td></td>
+        <td>TMM</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>AGAL</td>
+        <td>Attention-guided Global-local Adversarial Learning for&nbsp;&nbsp;&nbsp;Detail-preserving Multi-exposure Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9684913">Paper</a></td>
+        <td><a href="https://github.com/JinyuanLiu-CV/AGAL">Code</a></td>
+        <td>TCSVT</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>GANFuse</td>
+        <td>GANFuse: a novel multi-exposure image fusion method based on&nbsp;&nbsp;&nbsp;generative adversarial networks</td>
+        <td><a href="https://link.springer.com/article/10.1007/s00521-020-05387-4">Paper</a></td>
+        <td></td>
+        <td>NCAA</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>DRLF</td>
+        <td>Automatic Intermediate Generation With Deep Reinforcement&nbsp;&nbsp;&nbsp;Learning for Robust Two-Exposure Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9466369/">Paper</a></td>
+        <td></td>
+        <td>TNNLS</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>Trans-MEF</td>
+        <td>TransMEF: A Transformer-Based Multi-Exposure Image Fusion&nbsp;&nbsp;&nbsp;Framework using Self-Supervised Multi-Task Learning</td>
+        <td><a href="https://arxiv.org/pdf/2112.01030.pdf">Paper</a></td>
+        <td><a href="https://github.com/hli1221/Imagefusion_deepfuse">Code</a></td>
+        <td>AAAI</td>
+        <td>AE</td>
+        <td>自监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>DPE-MEF</td>
+        <td>Multi-exposure image fusion via deep perceptual enhancement</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253521002049?casa_token=9wOlURjhP7cAAAAA:7tMeJQtO6qVFoih_JlT4KVl1sPRInc-cLDSbe9W7474gyqG-O11XWbvlGZanRj8ZVw-9rmh88B34">Paper</a></td>
+        <td><a href="https://github.com/dongdong4fei/DPE-MEF">Code</a></td>
+        <td>InFus</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+    </tbody>
+    </table>
+    
+### Multi-focus image fusion
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>监督范式</th>
+        <th>年份</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>CNN</td>
+        <td>Multi-focus image fusion with a deep convolutional neural&nbsp;&nbsp;&nbsp;network</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253516302081?casa_token=ExizHHOx2PYAAAAA:irheSncDJuLbBmd2bcejDxW9Cjf9Y9WRMUFUjfhG2DgFuY2Nni1qTg1AqwKNSsXUVBj7dFKTIQ">Paper</a></td>
+        <td><a href="https://github.com/xiaohuiben/MEF-CNN-feature">Code</a></td>
+        <td>InFus</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2017</td>
+      </tr>
+      <tr>
+        <td>ECNN</td>
+        <td>Ensemble of CNN for multi-focus image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253518306043?casa_token=p1rP_1bKz_YAAAAA:X75eWD_lFNZeNxpzXASehge1d0sptXBvDH-R9aAURPSF-AKRyUYIWtiyvf4m5j1UlF895TRlvFXm">Paper</a></td>
+        <td><a href="https://github.com/mostafaaminnaji/ECNN">Code</a></td>
+        <td>InFus</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>MLFCNN</td>
+        <td>Multilevel features convolutional neural network for&nbsp;&nbsp;&nbsp;multifocus image fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8599008">Paper</a></td>
+        <td></td>
+        <td>TCI</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>DRPL</td>
+        <td>DRPL: Deep Regression Pair Learning for Multi-Focus Image&nbsp;&nbsp;&nbsp;Fusion </td>
+        <td><a href="https://ieeexplore.ieee.org/document/9020016">Paper</a></td>
+        <td><a href="https://github.com/sasky1/DPRL">Code</a></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>MMF-Net</td>
+        <td>An α-Matte Boundary Defocus Model-Based Cascaded Network for&nbsp;&nbsp;&nbsp;Multi-Focus Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9178463">Paper</a></td>
+        <td><a href="https://github.com/xytmhy/MMF-Net-Multi-Focus-Image-Fusion">Code</a></td>
+        <td>TCI</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>MFF-SSIM</td>
+        <td>Towards Reducing Severe Defocus Spread Effects for Multi-Focus&nbsp;&nbsp;&nbsp;Image Fusion via an Optimization Based Strategy</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9269377">Paper</a></td>
+        <td><a href="https://github.com/shuangxu96/MFF-SSIM">Code</a></td>
+        <td>Sensors</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>MFNet</td>
+        <td>Structural Similarity Loss for Learning to Fuse Multi-Focus&nbsp;&nbsp;&nbsp;Images</td>
+        <td><a href="https://www.mdpi.com/1424-8220/20/22/6647">Paper</a></td>
+        <td></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>GEU-Net</td>
+        <td>Global-Feature Encoding U-Net (GEU-Net) for Multi-Focus Image&nbsp;&nbsp;&nbsp;Fusion [GEU-Net</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9242278">Paper</a></td>
+        <td><a href="https://github.com/xudif/GEU-Net">Code</a></td>
+        <td>TCI</td>
+        <td>CNN</td>
+        <td>自监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>DTMNet</td>
+        <td>DTMNet: A Discrete Tchebichef Moments-Based Deep Neural&nbsp;&nbsp;&nbsp;Network for Multi-Focus Image Fusion</td>
+        <td><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_DTMNet_A_Discrete_Tchebichef_Moments-Based_Deep_Neural_Network_for_Multi-Focus_ICCV_2021_paper.html">Paper</a></td>
+        <td></td>
+        <td>TMM</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>SMFuse</td>
+        <td> SMFuse: Multi-Focus&nbsp;&nbsp;&nbsp;Image Fusion Via Self-Supervised Mask-Optimization</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9369892">Paper</a></td>
+        <td><a href="https://github.com/jiayi-ma/SMFuse">Code</a></td>
+        <td>NCA</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>ACGAN</td>
+        <td>A generative adversarial network with adaptive constraints for&nbsp;&nbsp;&nbsp;multi-focus image fusion</td>
+        <td><a href="https://link.springer.com/article/10.1007/s00521-020-04863-1">Paper</a></td>
+        <td><a href="https://github.com/LeBoyal/NCAA_code">Code</a></td>
+        <td>ICCV</td>
+        <td>GAN</td>
+        <td>有监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>FuseGAN</td>
+        <td>Learning to fuse multi-focus image via conditional generative&nbsp;&nbsp;&nbsp;adversarial network</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8625482">Paper</a></td>
+        <td></td>
+        <td>TIP</td>
+        <td>GAN</td>
+        <td>有监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>D2FMIF</td>
+        <td>Depth-Distilled Multi-focus Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9647937">Paper</a></td>
+        <td></td>
+        <td>TMM</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2019</td>
+      </tr>
+      <tr>
+        <td>SESF-Fuse</td>
+        <td>SESF-Fuse: an unsupervised deep model for multi-focus image&nbsp;&nbsp;&nbsp;fusion</td>
+        <td><a href="https://link.springer.com/article/10.1007/s00521-020-05358-">Paper</a></td>
+        <td><a href="https://github.com/Keep-Passion/SESF-Fuse">Code</a></td>
+        <td>NCAA</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>MFF-GAN</td>
+        <td>MFF-GAN: An unsupervised generative adversarial network with&nbsp;&nbsp;&nbsp;adaptive and gradient joint constraints for multi-focus image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253520303572?casa_token=GA0lIhkd-_IAAAAA:xjU-avtOOmTraORf7bZZ5sNwcWgccV_EFA6bFjpA05PyFwxQZq2Giil2aJN_l0FYa0JghBiBlufg">Paper</a></td>
+        <td><a href="https://github.com/HaoZhang1018/MFF-GAN">Code</a></td>
+        <td>InFus</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>MFIF-GAN</td>
+        <td>MFIF-GAN: A new generative adversarial network for multi-focus&nbsp;&nbsp;&nbsp;image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S0923596521001260?casa_token=FouAKgZYaXcAAAAA:zj3zevZjxqVSXpMwFcDoYPBXtrnAorpm5SkdXeDK8A93ob4QZkZeDpJgeRZtiS30Yj7Id1-c3gfS">Paper</a></td>
+        <td><a href="https://github.com/ycwang-libra/MFIF-GAN">Code</a></td>
+        <td>SPIC</td>
+        <td>GAN</td>
+        <td>有监督</td>
+        <td>2021</td>
+      </tr>
+    </tbody>
+    </table>
+ 
+ ## Remote Sensing Image Fusion
+ ### Pansharpening
+ <table>
+<thead>
+  <tr>
+    <th>方法</th>
+    <th>标题</th>
+    <th>论文</th>
+    <th>代码</th>
+    <th>发表期刊或会议</th>
+    <th>基础框架</th>
+    <th>监督范式</th>
+    <th>年份</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>PNN</td>
+    <td>Pansharpening by Convolutional Neural&nbsp;&nbsp;&nbsp;Networks</td>
+    <td><a href="https://www.mdpi.com/2072-4292/8/7/594">Paper</a></td>
+    <td><a href="https://github.com/ThomasWangWeiHong/Pansharpening-by-Convolutional-Neural-Network">Code</a></td>
+    <td>RS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>PanNet</td>
+    <td>PanNet: A deep network architecture for&nbsp;&nbsp;&nbsp;pan-sharpening</td>
+    <td><a href="https://openaccess.thecvf.com/content_iccv_2017/html/Yang_PanNet_A_Deep_ICCV_2017_paper.html">Paper</a></td>
+    <td><a href="https://github.com/oyam/PanNet-Landsat">Code</a></td>
+    <td>PanNet</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2017</td>
+  </tr>
+  <tr>
+    <td>TFNet</td>
+    <td>Remote sensing image fusion based on&nbsp;&nbsp;&nbsp;two-stream fusion network</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253517308060?casa_token=67RmX5_5pIsAAAAA:hbrOWj2JUylmwMrB2-MtynJXXS2av8lI_NbTB1-z9gM_oPKVlRS2XQUkciVUoDUYU3Sa3e5JJ7fL">Paper</a></td>
+    <td><a href="https://github.com/liouxy/tfnet_pytorch">Code</a></td>
+    <td>TFNet</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>BKL</td>
+    <td>Unsupervised Blur Kernel Learning for&nbsp;&nbsp;&nbsp;Pansharpening</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9324543/">Paper</a></td>
+    <td></td>
+    <td>IGARSS</td>
+    <td>CNN</td>
+    <td>无监督</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>Pan-GAN</td>
+    <td>Pan-GAN: An unsupervised pan-sharpening&nbsp;&nbsp;&nbsp;method for remote sensing image fusion</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253520302591?casa_token=ERMiphW48jIAAAAA:PgpCOB6ClGnMhrXJHFC-h3riITCdpQ7sPePX7xEtlDzOOjShCWwut66VMvQ3j8hCHjUupsiAW7Ca)%5d%20%5bCode%5d(https://github.com/yuwei998/PanGAN">Paper</a></td>
+    <td><a href="https://github.com/yuwei998/PanGAN">Code</a></td>
+    <td>InFus</td>
+    <td>GAN</td>
+    <td>无监督</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>UCNN</td>
+    <td>Pansharpening via Unsupervised Convolutional&nbsp;&nbsp;&nbsp;Neural Networks</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9136909/">Paper</a></td>
+    <td></td>
+    <td>JSTARS</td>
+    <td>CNN</td>
+    <td>无监督</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>UPSNet</td>
+    <td>UPSNet: Unsupervised Pan-Sharpening Network&nbsp;&nbsp;&nbsp;With Registration Learning Between Panchromatic and Multi-Spectral Images</td>
+    <td><a href="https://ieeexplore.ieee.org/document/9248047/">Paper</a></td>
+    <td></td>
+    <td>ACCESS</td>
+    <td>CNN</td>
+    <td>无监督</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>GPPNN</td>
+    <td>Deep Gradient Projection Networks for&nbsp;&nbsp;&nbsp;Pan-sharpening</td>
+    <td><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Deep_Gradient_Projection_Networks_for_Pan-sharpening_CVPR_2021_paper.html">Paper</a></td>
+    <td><a href="https://github.com/shuangxu96/GPPNN">Code</a></td>
+    <td>CVPR</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>GTP-PNet</td>
+    <td>GTP-PNet: A residual learning network based&nbsp;&nbsp;&nbsp;on gradient transformation prior for pansharpening</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S092427162030352X?casa_token=MpRVtfAoM8QAAAAA:0MxRCKHqREmjpngbHdN-EiTfNNbpVBikgP67VePg9hyFqm72Ot2NuRg1BeeslNmd0pVRsisi5niD">Paper</a></td>
+    <td><a href="https://github.com/HaoZhang1018/GTP-PNet">Code</a></td>
+    <td>ISPRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>HMCNN</td>
+    <td>Pan-Sharpening Via High-Pass Modification&nbsp;&nbsp;&nbsp;Convolutional Neural Network</td>
+    <td><a href="https://github.com/jiaming-wang/HMB">Paper</a></td>
+    <td><a href="https://github.com/xiaohuiben/MEF-CNN-feature">Code</a></td>
+    <td>ICIP</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>SDPNet</td>
+    <td>SDPNet: A Deep Network for Pan-Sharpening&nbsp;&nbsp;&nbsp;With Enhanced Information Representation</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9200533/">Paper</a></td>
+    <td><a href="https://github.com/hanna-xu/SDPNet-for-pansharpening">Code</a></td>
+    <td>TGRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>SIPSA-Net</td>
+    <td>SIPSA-Net: Shift-Invariant Pan Sharpening&nbsp;&nbsp;&nbsp;with Moving Object Alignment for Satellite Imagery</td>
+    <td><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Lee_SIPSA-Net_Shift-Invariant_Pan_Sharpening_With_Moving_Object_Alignment_for_Satellite_CVPR_2021_paper.html">Paper</a></td>
+    <td><a href="https://github.com/brachiohyup/SIPSA">Code</a></td>
+    <td>CVPR</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>SRPPNN</td>
+    <td>Super-resolution-guided progressive&nbsp;&nbsp;&nbsp;pansharpening based on a deep convolutional neural network</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9172104">Paper</a></td>
+    <td><a href="https://github.com/MrCPlusPlus/SRPPNN">Code</a></td>
+    <td>TGRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>PSGAN</td>
+    <td>PSGAN: A generative adversarial network for&nbsp;&nbsp;&nbsp;remote sensing image pan-sharpening</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9306912">Paper</a></td>
+    <td><a href="https://github.com/zhysora/PSGan-Family">Code</a></td>
+    <td>TGRS</td>
+    <td>GAN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>MDCNN</td>
+    <td>MDCNN: multispectral pansharpening based on a&nbsp;&nbsp;&nbsp;multiscale dilated convolutional neural network</td>
+    <td><a href="https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-15/issue-3/036516/MDCNN--multispectral-pansharpening-based-on-a-multiscale-dilated-convolutional/10.1117/1.JRS.15.036516.short?SSO=1">Paper</a></td>
+    <td></td>
+    <td>JRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>LDP-Net</td>
+    <td>LDP-Net: An Unsupervised Pansharpening&nbsp;&nbsp;&nbsp;Network Based on Learnable Degradation Processes</td>
+    <td><a href="https://arxiv.org/abs/2111.12483">Paper</a></td>
+    <td><a href="https://github.com/suifenglian/LDP-Net">Code</a></td>
+    <td>Arxiv</td>
+    <td>CNN</td>
+    <td>无监督</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>DIGAN</td>
+    <td>Pansharpening approach via two-stream detail&nbsp;&nbsp;&nbsp;injection based on relativistic generative adversarial networks</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S0957417421013440?casa_token=UH2brpdrn4MAAAAA:yh_OVkvU5Lg5r6bv5cKFXIZNR4PS8Q6SMq-tjj4Wcs4Bekpon4fnSzocnLnZzQYX-066svxzb9w">Paper</a></td>
+    <td></td>
+    <td>ESA</td>
+    <td>GAN</td>
+    <td>有监督</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>DPFN</td>
+    <td>A Dual-Path Fusion Network for Pan-Sharpening</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9467620/">Paper</a></td>
+    <td><a href="https://github.com/jiaming-wang/DPFN">Code</a></td>
+    <td>TGRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>MSGAN</td>
+    <td>An Unsupervised Multi-scale Generative&nbsp;&nbsp;&nbsp;Adversarial Network for Remote Sensing Image Pan-Sharpening</td>
+    <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-98355-0_30">Paper</a></td>
+    <td></td>
+    <td>ICMM</td>
+    <td>GAN</td>
+    <td>无监督</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td>UCGAN</td>
+    <td>Unsupervised Cycle-Consistent Generative&nbsp;&nbsp;&nbsp;Adversarial Networks for Pan Sharpening</td>
+    <td><a href="https://ieeexplore.ieee.org/document/9755137/">Paper</a></td>
+    <td><a href="https://github.com/zhysora/UCGAN">Code</a></td>
+    <td>TGRS</td>
+    <td>GAN</td>
+    <td>无监督</td>
+    <td>2022</td>
+  </tr>
+</tbody>
+</table>
+
+## General Image Fusion Framerwork
+<table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>标题</th>
+        <th>论文</th>
+        <th>代码</th>
+        <th>发表期刊或会议</th>
+        <th>基础框架</th>
+        <th>监督范式</th>
+        <th>年份</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>IFCNN</td>
+        <td>IFCNN: A general image fusion framework based on convolutional&nbsp;&nbsp;&nbsp;neural network</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253518305505?casa_token=aECX-sSMXqUAAAAA:xdsAZ2lJjOrUmIWTEvDO1mdCzsA9eaDxgkxiL1r4RiX_DP21TVxAiy2jkMOsFXyzVQZ4gp3NEAPj">Paper</a></td>
+        <td><a href="https://github.com/uzeful/IFCNN">Code</a></td>
+        <td>InFus</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>FusionDN</td>
+        <td>FusionDN: A Unified Densely Connected Network for Image&nbsp;&nbsp;&nbsp;Fusion </td>
+        <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6936">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu/FusionDN">Code</a></td>
+        <td>AAAI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>PMGI</td>
+        <td>Rethinking the Image Fusion: A Fast Unified Image Fusion&nbsp;&nbsp;&nbsp;Network based on Proportional Maintenance of Gradient and Intensity </td>
+        <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/6975">Paper</a></td>
+        <td><a href="https://github.com/HaoZhang1018/PMGI_AAAI2020">Code</a></td>
+        <td>AAAI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
+        <td>CU-Net</td>
+        <td>Deep Convolutional Neural Network for Multi-Modal Image&nbsp;&nbsp;&nbsp;Restoration and Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9055063/">Paper</a></td>
+        <td></td>
+        <td>TPAMI</td>
+        <td>CNN</td>
+        <td>有监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>SDNet</td>
+        <td>SDNet: A Versatile Squeeze-and-Decomposition Network for&nbsp;&nbsp;&nbsp;Real-Time Image Fusion</td>
+        <td><a href="https://link.springer.com/article/10.1007/s11263-021-01501-8">Paper</a></td>
+        <td><a href="https://github.com/HaoZhang1018/SDNet">Code</a></td>
+        <td>IJCV</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>DIF-Net</td>
+        <td>Unsupervised Deep Image Fusion With Structure Tensor&nbsp;&nbsp;&nbsp;Representations</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8962327/">Paper</a></td>
+        <td><a href="https://github.com/kimphys/DIFNet.pytorch">Code</a></td>
+        <td>TIP</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>IFSepR</td>
+        <td>IFSepR: A general framework for image fusion based on separate&nbsp;&nbsp;&nbsp;representation learning</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9622164">Paper</a></td>
+        <td></td>
+        <td>TMM</td>
+        <td>AE</td>
+        <td>自监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>MTOE</td>
+        <td>Multiple Task-Oriented Encoders for Unified Image Fusion</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9428212">Paper</a></td>
+        <td></td>
+        <td>ICME</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>U2Fusion</td>
+        <td>U2Fusion: A Unified Unsupervised Image Fusion Network</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9151265">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu/U2Fusion">Code</a></td>
+        <td>TPAMI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+    </tbody>
+</table>
