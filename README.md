@@ -1,3 +1,5 @@
+
+# 图像融合(Image Fusion)
 - [图像融合(Image Fusion)](#图像融合image-fusion)
   - [多模图像融合(Multi-Modal Image Fusion)](#多模图像融合multi-modal-image-fusion)
     - [红外和可见光图像融合(Infrared and visible image fusion)](#红外和可见光图像融合infrared-and-visible-image-fusion)
@@ -10,7 +12,6 @@
   - [通用图像融合框架(General Image Fusion Framerwork)](#通用图像融合框架general-image-fusion-framerwork)
   - [综述(Survey)](#综述survey)
   - [数据集(Dataset)](#数据集dataset)
-# 图像融合(Image Fusion)
 ## 多模图像融合(Multi-Modal Image Fusion)
 ### 红外和可见光图像融合(Infrared and visible image fusion)
 <table>
