@@ -241,6 +241,6 @@
   </tr>
 </tbody>
 </table>
-[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion)
+"[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion)"
 
 ### Medical image fusion
