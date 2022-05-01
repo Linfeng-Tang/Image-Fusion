@@ -417,8 +417,8 @@
     </tbody>
     </table>
     
-## Digital Photography Image Fusion
-### Multi-exposure image fusion
+## 数字摄影图像融合(Digital Photography Image Fusion)
+### 多曝光图像融合(Multi-exposure image fusion)
 <table>
     <thead>
       <tr>
@@ -566,7 +566,7 @@
     </tbody>
     </table>
     
-### Multi-focus image fusion
+### 多聚焦图像融合(Multi-focus image fusion)
 <table>
     <thead>
       <tr>
@@ -744,8 +744,8 @@
     </tbody>
     </table>
  
- ## Remote Sensing Image Fusion
- ### Pansharpening
+ ## 遥感影像融合(Remote Sensing Image Fusion)
+ ### 全色图像锐化(Pansharpening)
  <table>
 <thead>
   <tr>
@@ -963,7 +963,7 @@
 </tbody>
 </table>
 
-## General Image Fusion Framerwork
+## 通用图像融合框架(General Image Fusion Framerwork)
 <table>
     <thead>
       <tr>
@@ -1069,4 +1069,74 @@
         <td>2022</td>
       </tr>
     </tbody>
+</table>
+## 综述(Survey)
+<table>
+<thead>
+  <tr>
+    <th>标题</th>
+    <th>论文</th>
+    <th>代码</th>
+    <th>发表期刊或会议</th>
+    <th>年份</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>A review of&nbsp;&nbsp;&nbsp;remote sensing image fusion methods</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253516300173?casa_token=1JHuWMUO20QAAAAA:gzRSAmDvI5iciNDoihkI8raYANyPb6PzXE-f9U5iE9LUh9FIsfOiMBLK4VFyA6l84eDIV9HOIKs6">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2016</td>
+  </tr>
+  <tr>
+    <td>Pixel-level&nbsp;&nbsp;&nbsp;image fusion: A survey of the state of the art</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253516300458?casa_token=8TemDHLkC_oAAAAA:ucXl6DUaMy9PpEnRueneNDpDBMeDy8P5M6JAaLkhg1Y6dvA9fdFHnuq9aXMapfMgfC18Ffa5eT07">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2017</td>
+  </tr>
+  <tr>
+    <td>Deep&nbsp;&nbsp;&nbsp;learning for pixel-level image fusion: Recent advances and future prospects</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253517305936?casa_token=PPYorDBH2wAAAAAA:6FssewzwcKsdfVDQGoQH9Uu154HtjOTw05vXK2S7c3g02QzRLroC1gJ7MXwdMCwqsC2Mx9UWgEx5">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2018</td>
+  </tr>
+  <tr>
+    <td>Infrared and&nbsp;&nbsp;&nbsp;visible image fusion methods and applications: A survey</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253517307972?casa_token=HpeaaU2oKNIAAAAA:MgWpCued5JhnK3KDBLQ9dbpzSORbThpSfTPXFGJDqYEMCl6C1nmTI63MG_FzaDBnGPmJKUxW-KAt">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td>Multi-focus&nbsp;&nbsp;&nbsp;image fusion: A Survey of the state of the art</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253520303109?casa_token=yugI5Tt6HAMAAAAA:jT4uV1xK2HjtfZWPuh2FkcqtHC1CN5TAYGR64ZWika5B0xAro9r-S5qOk30UDrNziKDuWPLQIsWw">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2020</td>
+  </tr>
+  <tr>
+    <td>Image fusion&nbsp;&nbsp;&nbsp;meets deep learning: A survey and perspective</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253521001342?casa_token=4BDX2mCr4VwAAAAA:LzXkYoP1QwTW5lXEpMCdVEZ2W27ZXf8VbJIVOX10dl-SpYuuYkNyaTk7uiD5JCjSbn6grf8DXy33">Paper</a></td>
+    <td></td>
+    <td>InFus</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>Deep&nbsp;&nbsp;&nbsp;Learning-based Multi-focus Image Fusion: A Survey and A Comparative&nbsp;&nbsp;&nbsp;Study </td>
+    <td><a href="https://ieeexplore.ieee.org/document/9428544/">Paper</a></td>
+    <td><a href="https://github.com/xingchenzhang/MFIFB">Code</a></td>
+    <td>TPAMI </td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td>Benchmarking&nbsp;&nbsp;&nbsp;and comparing multi-exposure image fusion algorithms</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253521000233?casa_token=3fZWWc9-l_kAAAAA:en9qngjXa_neaqkNdp73a25flyglW2IzNkjuYSqUYh4ZxvZy63n48-pzPboX1p2I95ofJxiz2ptp">Paper</a></td>
+    <td><a href="https://github.com/xingchenzhang/MEFB">Code</a></td>
+    <td>InFus</td>
+    <td>2021</td>
+  </tr>
+</tbody>
 </table>
