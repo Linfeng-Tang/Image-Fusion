@@ -11,6 +11,10 @@
 - [通用图像融合框架(General Image Fusion Framerwork)](#通用图像融合框架general-image-fusion-framerwork)
 - [综述(Survey)](#综述survey)
 - [数据集(Dataset)](#数据集dataset)
+- [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
+  - [通用评估指标(General evaluation metric)](#通用评估指标general-evaluation-metric)
+  - [遥感影像融合评估指标](#遥感影像融合评估指标)
+- [Citation](#citation)
 ## 多模图像融合(Multi-Modal Image Fusion)
 ### 红外和可见光图像融合(Infrared and visible image fusion)
 <table>
@@ -1255,3 +1259,52 @@
   </tr>
 </tbody>
 </table>
+
+## 评估指标(Evaluation Metric)
+### 通用评估指标(General evaluation metric)
+通用评估指标位于：'./General Evaluation Metric' or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
+### 遥感影像融合评估指标
+
+
+## Citation
+如果我们的程序对你有所帮助, 请引用以下论文：
+```
+@article{TANG2022SeAFusion,
+title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
+author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
+journal = {Information Fusion},
+volume = {82},
+pages = {28-42},
+year = {2022},
+issn = {1566-2535},
+publisher={Elsevier}
+}
+```
+
+```
+@article{Tang2022PIAFusion,
+  title={PIAFusion: A progressive infrared and visible image fusion network based on illumination aware},
+  author={Tang, Linfeng and Yuan, Jiteng and Zhang, Hao and Jiang, Xingyu and Ma, Jiayi},
+  journal={Information Fusion},
+  volume = {83-84},
+  pages = {79-92},
+  year = {2022},
+  issn = {1566-2535},
+  publisher={Elsevier}
+}
+```
+
+```
+@article{ma2021STDFusionNet,
+  title={STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection},
+  author={Jiayi Ma, Linfeng Tang, Meilong Xu, Hao Zhang, and Guobao Xiao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2021},
+  volume={70},
+  number={},
+  pages={1-13},
+  doi={10.1109/TIM.2021.3075747}，
+  publisher={IEEE}
+}
+```
+**如果有任何问题请联系：linfeng0419@gmail.com**
