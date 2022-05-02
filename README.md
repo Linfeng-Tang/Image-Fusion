@@ -1262,12 +1262,12 @@
 
 ## 评估指标(Evaluation Metric)
 ### 通用评估指标(General evaluation metric)
-通用评估指标位于：'./General Evaluation Metric' or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
-### 遥感影像融合评估指标
+通用评估指标位于：https://github.com/Linfeng-Tang/Image-Fusion/tree/main/General%20Evaluation%20Metric or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
+### 遥感影像融合评估指标(Evaluation metric for pansharpening)
 
 
 ## Citation
-如果我们的程序对你有所帮助, 请引用以下论文：
+如果我们的总结对你有所帮助, 请引用以下论文：
 ```
 @article{TANG2022SeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
