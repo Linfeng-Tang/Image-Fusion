@@ -272,7 +272,7 @@
         <td>2022</td>
       </tr>
       <tr>
-        <td>SeAFusion</td>
+        <td>RFNet</td>
         <td>RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion</td>
         <td><a href="https://www.researchgate.net/publication/360238557_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-modal_Image_Registration_and_Fusion">Paper</a></td>
         <td><a href="https://github.com/hanna-xu">Code</a></td>
