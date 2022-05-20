@@ -262,6 +262,26 @@
         <td>2021</td>
       </tr>
       <tr>
+        <td>TarDAL</td>
+        <td>Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection</td>
+        <td><a href="https://arxiv.org/abs/2203.16220v1">Paper</a></td>
+        <td><a href="https://github.com/JinyuanLiu-CV/TarDAL">Code</a></td>
+        <td>CVPR</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>SeAFusion</td>
+        <td>RFNet: Unsupervised Network for Mutually Reinforcing Multi-modal Image Registration and Fusion</td>
+        <td><a href="https://www.researchgate.net/publication/360238557_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-modal_Image_Registration_and_Fusion">Paper</a></td>
+        <td><a href="https://github.com/hanna-xu">Code</a></td>
+        <td>CVPR</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
         <td>SeAFusion</td>
         <td>Image fusion in the loop of&nbsp;&nbsp;&nbsp;high-level vision tasks: A semantic-aware real-time infrared and visible&nbsp;&nbsp;&nbsp;image fusion network</td>
         <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253521002542%3Fvia%253Dihub">Paper</a></td>
@@ -1028,7 +1048,7 @@
         <td>CU-Net</td>
         <td>Deep Convolutional Neural Network for Multi-Modal Image&nbsp;&nbsp;&nbsp;Restoration and Fusion</td>
         <td><a href="https://ieeexplore.ieee.org/abstract/document/9055063/">Paper</a></td>
-        <td></td>
+        <td><a href="https://github.com/cindydeng1991/TPAMI-CU-Net">Code</a></td>
         <td>TPAMI</td>
         <td>CNN</td>
         <td>有监督</td>
