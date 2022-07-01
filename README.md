@@ -301,6 +301,16 @@
         <td>无监督</td>
         <td>2022</td>
       </tr>
+      <tr>
+        <td>UMF-CMGR</td>
+        <td>Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration</td>
+        <td><a href="https://arxiv.org/pdf/2205.11876.pdf">Paper</a></td>
+        <td><a href="https://github.com/wdhudiekou/UMF-CMGR" target="_blank" rel="noopener noreferrer">Code</a></td>        
+        <td>IJCAI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
     </tbody>
     </table>
     
@@ -1101,6 +1111,16 @@
         <td><a href="https://github.com/hanna-xu/U2Fusion">Code</a></td>
         <td>TPAMI</td>
         <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>SwinFusion</td>
+        <td>SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer</td>
+        <td><a href="https://ieeexplore.ieee.org/document/9812535">Paper</a></td>
+        <td><a href="https://github.com/Linfeng-Tang/SwinFusion">Code</a></td>
+        <td>JAS</td>
+        <td>Transformer</td>
         <td>无监督</td>
         <td>2022</td>
       </tr>
