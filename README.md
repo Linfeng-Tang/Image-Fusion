@@ -1006,6 +1006,16 @@
     <td>无监督</td>
     <td>2022</td>
   </tr>
+  <tr>
+    <td>D2TNet</td>
+    <td>A ConvLSTM Network with Dual-direction Transfer for Pan-sharpening</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/9761261">Paper</a></td>
+    <td><a href="https://github.com/Meiqi-Gong/D2TNet">Code</a></td>
+    <td>TGRS</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2022</td>
+  </tr>
 </tbody>
 </table>
 
