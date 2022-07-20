@@ -122,7 +122,7 @@
         <td>2021</td>
       </tr>
       <tr>
-        <td>EAGIF</td>
+        <td>MFEIF</td>
         <td>Learning a Deep Multi-Scale Feature Ensemble and an&nbsp;&nbsp;&nbsp;Edge-Attention Guidance for Image Fusion</td>
         <td><a href="https://ieeexplore.ieee.org/document/9349250">Paper</a></td>
         <td></td>
@@ -567,7 +567,7 @@
         <td>TCSVT</td>
         <td>GAN</td>
         <td>无监督</td>
-        <td>2021</td>
+        <td>2022</td>
       </tr>
       <tr>
         <td>GANFuse</td>
