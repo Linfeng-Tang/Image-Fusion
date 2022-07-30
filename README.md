@@ -1322,6 +1322,19 @@
 ## Citation
 如果我们的总结对你有所帮助, 请引用以下论文：
 ```
+@article{Ma2022SwinFusion,
+  title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
+  author={Ma, Jiayi and Tang, Linfeng and Fan, Fan and Huang, Jun and Mei, Xiaoguang and Ma, Yong},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={9},
+  number={7},
+  pages={1200--1217},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+```
 @article{TANG2022SeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
 author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
