@@ -1321,6 +1321,15 @@
 
 ## Citation
 如果我们的总结对你有所帮助, 请引用以下论文：
+
+```
+@article{Tang2022Survey,
+  title={Deep learning-based image fusion: A survey},
+  author={Tang, Linfeng and Zhang, Hao and Xu, Han and Ma, Jiayi},  
+  journal={Journal of Image and Graphics}
+}
+```
+
 ```
 @article{Ma2022SwinFusion,
   title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
