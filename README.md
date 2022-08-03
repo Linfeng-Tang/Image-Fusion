@@ -18,6 +18,71 @@
   - [通用评估指标(General evaluation metric)](#通用评估指标general-evaluation-metric)
   - [遥感影像融合评估指标](#遥感影像融合评估指标)
 - [Citation](#citation)
+## Citation
+如果我们的总结对你有所帮助, 请引用以下论文：
+
+```
+@article{Tang2022Survey,
+  title={Deep learning-based image fusion: A survey},
+  author={Tang, Linfeng and Zhang, Hao and Xu, Han and Ma, Jiayi},  
+  journal={Journal of Image and Graphics}
+}
+```
+
+```
+@article{Ma2022SwinFusion,
+  title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
+  author={Ma, Jiayi and Tang, Linfeng and Fan, Fan and Huang, Jun and Mei, Xiaoguang and Ma, Yong},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={9},
+  number={7},
+  pages={1200--1217},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+```
+@article{TANG2022SeAFusion,
+title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
+author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
+journal = {Information Fusion},
+volume = {82},
+pages = {28-42},
+year = {2022},
+issn = {1566-2535},
+publisher={Elsevier}
+}
+```
+
+```
+@article{Tang2022PIAFusion,
+  title={PIAFusion: A progressive infrared and visible image fusion network based on illumination aware},
+  author={Tang, Linfeng and Yuan, Jiteng and Zhang, Hao and Jiang, Xingyu and Ma, Jiayi},
+  journal={Information Fusion},
+  volume = {83-84},
+  pages = {79-92},
+  year = {2022},
+  issn = {1566-2535},
+  publisher={Elsevier}
+}
+```
+
+```
+@article{ma2021STDFusionNet,
+  title={STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection},
+  author={Jiayi Ma, Linfeng Tang, Meilong Xu, Hao Zhang, and Guobao Xiao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2021},
+  volume={70},
+  number={},
+  pages={1-13},
+  doi={10.1109/TIM.2021.3075747}，
+  publisher={IEEE}
+}
+```
+**如果有任何问题请联系：linfeng0419@gmail.com**
+
 ## 多模图像融合(Multi-Modal Image Fusion)
 ### 红外和可见光图像融合(Infrared and visible image fusion)
 <table>
