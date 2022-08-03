@@ -43,7 +43,7 @@
 ```
 
 ```
-@article{TANG2022SeAFusion,
+@article{TTangSeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
 author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
 journal = {Information Fusion},
@@ -69,7 +69,7 @@ publisher={Elsevier}
 ```
 
 ```
-@article{ma2021STDFusionNet,
+@article{Ma2021STDFusionNet,
   title={STDFusionNet: An Infrared and Visible Image Fusion Network Based on Salient Target Detection},
   author={Jiayi Ma, Linfeng Tang, Meilong Xu, Hao Zhang, and Guobao Xiao},
   journal={IEEE Transactions on Instrumentation and Measurement},
