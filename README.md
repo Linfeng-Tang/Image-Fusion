@@ -3,6 +3,7 @@
 ## News
 [2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20220728162841001&flag=2&file_no=202204300000002&journal_id=jig)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20220728162841001&flag=2&file_no=202204300000002&journal_id=jig)]
 
+- [Citation](#citation)
 - [多模图像融合(Multi-Modal Image Fusion)](#多模图像融合multi-modal-image-fusion)
   - [红外和可见光图像融合(Infrared and visible image fusion)](#红外和可见光图像融合infrared-and-visible-image-fusion)
   - [医学图像融合(Medical image fusion)](#医学图像融合medical-image-fusion)
@@ -17,7 +18,6 @@
 - [评估指标(Evaluation Metric)](#评估指标evaluation-metric)
   - [通用评估指标(General evaluation metric)](#通用评估指标general-evaluation-metric)
   - [遥感影像融合评估指标](#遥感影像融合评估指标)
-- [Citation](#citation)
 ## Citation
 如果我们的总结对你有所帮助, 请引用以下论文：
 
