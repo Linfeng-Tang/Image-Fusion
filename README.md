@@ -81,7 +81,6 @@ publisher={Elsevier}
   publisher={IEEE}
 }
 ```
-**如果有任何问题请联系：linfeng0419@gmail.com**
 
 ## 多模图像融合(Multi-Modal Image Fusion)
 ### 红外和可见光图像融合(Infrared and visible image fusion)
