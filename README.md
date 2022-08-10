@@ -149,6 +149,16 @@ publisher={Elsevier}
         <td>2020</td>
       </tr>
       <tr>
+        <td>DIDFuse</td>
+        <td>DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion</td>
+        <td><a href="https://arxiv.org/abs/2003.09210">Paper</a></td>
+        <td><a href="https://github.com/Zhaozixiang1228/IVIF-DIDFuse">Code</a></td>
+        <td>IJCAI </td>
+        <td>AE</td>
+        <td>自监督</td>
+        <td>2020</td>
+      </tr>
+      <tr>
         <td>RFN-Nest</td>
         <td>RFN-Nest: An end-to-end residual fusion network for infrared&nbsp;&nbsp;&nbsp;and visible images</td>
         <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253521000440%3Fvia%253Dihub">Paper</a></td>
@@ -326,6 +336,16 @@ publisher={Elsevier}
         <td>TCSVT</td>
         <td>GAN</td>
         <td>无监督</td>
+        <td>2021</td>
+      </tr>
+      <tr>
+        <td>AUIF</td>
+        <td>Efficient and model-based infrared and visible image fusion via algorithm unrolling</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/9416456/">Paper</a></td>
+        <td><a href="https://github.com/Zhaozixiang1228/IVIF-AUIF-Net">Code</a></td>
+        <td>TCSVT</td>
+        <td>AE</td>
+        <td>自监督</td>
         <td>2021</td>
       </tr>
       <tr>
