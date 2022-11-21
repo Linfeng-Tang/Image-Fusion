@@ -1345,7 +1345,6 @@ publisher={Elsevier}
   <tr>
     <td>Current advances and future perspectives of image fusion: A comprehensive review</td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253522001518">Paper</a></td>
-    <td>InFus</td>
     <td><a href="">Code</a></td>
     <td>InFus</td>
     <td>2023</td>
