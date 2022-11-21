@@ -387,17 +387,7 @@ publisher={Elsevier}
         <td>CNN</td>
         <td>无监督</td>
         <td>2022</td>
-      </tr>
-      <tr>
-        <td>DIVFusion</td>
-        <td>DIVFusion: Darkness-free infrared and visible image fusion</td>
-        <td><a href="https://authors.elsevier.com/c/1g4EB_ZdCkUn0I">Paper</a></td>
-        <td><a href="https://github.com/Xinyu-Xiang/DIVFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
-        <td>InfFus</td>
-        <td>CNN</td>
-        <td>无监督</td>
-        <td>2022</td>
-      </tr>
+      </tr>      
       <tr>
         <td>UMF-CMGR</td>
         <td>Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration</td>
@@ -417,6 +407,16 @@ publisher={Elsevier}
         <td>CNN</td>
         <td>无监督</td>
         <td>2022</td>
+      </tr>
+      <tr>
+        <td>DIVFusion</td>
+        <td>DIVFusion: Darkness-free infrared and visible image fusion</td>
+        <td><a href="https://authors.elsevier.com/c/1g4EB_ZdCkUn0I">Paper</a></td>
+        <td><a href="https://github.com/Xinyu-Xiang/DIVFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
+        <td>InfFus</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2023</td>
       </tr>
     </tbody>
     </table>
@@ -1345,6 +1345,8 @@ publisher={Elsevier}
   <tr>
     <td>Current advances and future perspectives of image fusion: A comprehensive review</td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253522001518">Paper</a></td>
+    <td>InFus</td>
+    <td><a href="">Code</a></td>
     <td>InFus</td>
     <td>2023</td>
   </tr>
