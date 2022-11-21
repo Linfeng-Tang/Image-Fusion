@@ -389,11 +389,31 @@ publisher={Elsevier}
         <td>2022</td>
       </tr>
       <tr>
+        <td>DIVFusion</td>
+        <td>DIVFusion: Darkness-free infrared and visible image fusion</td>
+        <td><a href="https://authors.elsevier.com/c/1g4EB_ZdCkUn0I">Paper</a></td>
+        <td><a href="https://github.com/Xinyu-Xiang/DIVFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
+        <td>InfFus</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
         <td>UMF-CMGR</td>
         <td>Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration</td>
         <td><a href="https://arxiv.org/pdf/2205.11876.pdf">Paper</a></td>
         <td><a href="https://github.com/wdhudiekou/UMF-CMGR" target="_blank" rel="noopener noreferrer">Code</a></td>        
         <td>IJCAI</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>DetFusion</td>
+        <td>DetFusion: A Detection-driven Infrared and Visible Image Fusion Network</td>
+        <td><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3547902?casa_token=YmZKEkd1zVcAAAAA:wb0HbfopS60BwSh0_QAdHHjwNQ5ZoWxduwHfBd1NzLbMr32AOPcInC4TCbZ5KM9Ly1PbVIGkmg">Paper</a></td>
+        <td><a href="https://github.com/SunYM2020/DetFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
+        <td>ACM MM</td>
         <td>CNN</td>
         <td>无监督</td>
         <td>2022</td>
@@ -1218,6 +1238,16 @@ publisher={Elsevier}
         <td><a href="https://github.com/Linfeng-Tang/SwinFusion">Code</a></td>
         <td>JAS</td>
         <td>Transformer</td>
+        <td>无监督</td>
+        <td>2022</td>
+      </tr>
+      <tr>
+        <td>DeFusion</td>
+        <td>Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion</td>
+        <td><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780706.pdf">Paper</a></td>
+        <td><a href="">Code</a></td>
+        <td>ECCV</td>
+        <td>CNN</td>
         <td>无监督</td>
         <td>2022</td>
       </tr>
