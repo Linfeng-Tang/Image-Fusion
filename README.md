@@ -1122,6 +1122,16 @@ publisher={Elsevier}
     <td>CNN</td>
     <td>有监督</td>
     <td>2022</td>
+  </tr>  
+  <tr>
+    <td>P2Sharpen</td>
+    <td>P2Sharpen: A progressive pansharpening network with deep spectral transformation</td>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253522001798">Paper</a></td>
+    <td><a href="">Code</a></td>
+    <td>INFFus</td>
+    <td>CNN</td>
+    <td>有监督</td>
+    <td>2023</td>
   </tr>
 </tbody>
 </table>
@@ -1251,6 +1261,16 @@ publisher={Elsevier}
         <td>无监督</td>
         <td>2022</td>
       </tr>
+      <tr>
+        <td>UIFGAN</td>
+        <td>UIFGAN: An unsupervised continual-learning generative adversarial network for unified image fusion</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253522000756">Paper</a></td>
+        <td><a href="">Code</a></td>
+        <td>INFFus</td>
+        <td>GAN</td>
+        <td>无监督</td>
+        <td>2023</td>
+      </tr>
     </tbody>
 </table>
 
@@ -1321,6 +1341,12 @@ publisher={Elsevier}
     <td><a href="https://github.com/xingchenzhang/MEFB">Code</a></td>
     <td>InFus</td>
     <td>2021</td>
+  </tr>
+  <tr>
+    <td>Current advances and future perspectives of image fusion: A comprehensive review</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253522001518">Paper</a></td>
+    <td>InFus</td>
+    <td>2023</td>
   </tr>
 </tbody>
 </table>
