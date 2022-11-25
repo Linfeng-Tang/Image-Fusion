@@ -56,6 +56,18 @@ publisher={Elsevier}
 ```
 
 ```
+@article{Tang2022DIVFusion,
+  title={DIVFusion: Darkness-free infrared and visible image fusion},
+  author={Tang, Linfeng and Xiang, Xinyu and Zhang, Hao and Gong, Meiqi and Ma, Jiayi},
+  journal={Information Fusion},
+  volume = {91},
+  pages = {477-493},
+  year = {2023},
+  publisher={Elsevier}
+}
+```
+
+```
 @article{Tang2022PIAFusion,
   title={PIAFusion: A progressive infrared and visible image fusion network based on illumination aware},
   author={Tang, Linfeng and Yuan, Jiteng and Zhang, Hao and Jiang, Xingyu and Ma, Jiayi},
@@ -1506,6 +1518,18 @@ publisher={Elsevier}
   pages = {79-92},
   year = {2022},
   issn = {1566-2535},
+  publisher={Elsevier}
+}
+```
+
+```
+@article{Tang2022DIVFusion,
+  title={DIVFusion: Darkness-free infrared and visible image fusion},
+  author={Tang, Linfeng and Xiang, Xinyu and Zhang, Hao and Gong, Meiqi and Ma, Jiayi},
+  journal={Information Fusion},
+  volume = {91},
+  pages = {477-493},
+  year = {2023},
   publisher={Elsevier}
 }
 ```
