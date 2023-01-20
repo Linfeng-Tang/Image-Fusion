@@ -1,7 +1,7 @@
 
 # 图像融合(Image Fusion)
 ## News
-[2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20220728162841001&flag=2&file_no=202204300000002&journal_id=jig)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?edit_id=20220728162841001&flag=2&file_no=202204300000002&journal_id=jig)]
+[2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)]
 
 - [Citation](#citation)
 - [多模图像融合(Multi-Modal Image Fusion)](#多模图像融合multi-modal-image-fusion)
