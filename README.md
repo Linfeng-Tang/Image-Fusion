@@ -26,8 +26,13 @@
   title={Deep learning-based image fusion: A survey},
   author={Tang, Linfeng and Zhang, Hao and Xu, Han and Ma, Jiayi},  
   journal={Journal of Image and Graphics}
+  volume={28},
+  number={1},
+  pages={3--36},
+  year={2023}
 }
 ```
+
 
 ```
 @article{Ma2022SwinFusion,
