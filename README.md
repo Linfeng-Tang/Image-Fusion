@@ -33,7 +33,18 @@
 }
 ```
 
-
+```
+@article{TANG2022SuperFusion,
+  title={SuperFusion: A versatile image registration and fusion network with semantic awareness},
+  author={Tang, Linfeng and Deng, Yuxin and Ma, Yong and Huang, Jun and Ma, Jiayi},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={9},
+  number={12},
+  pages={2121--2137},
+  year={2022},
+  publisher={IEEE}
+}
+```
 ```
 @article{Ma2022SwinFusion,
   title={SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer},
