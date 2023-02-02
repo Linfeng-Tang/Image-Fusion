@@ -34,7 +34,7 @@
 ```
 
 ```
-@article{TANG2022SuperFusion,
+@article{Tang2022SuperFusion,
   title={SuperFusion: A versatile image registration and fusion network with semantic awareness},
   author={Tang, Linfeng and Deng, Yuxin and Ma, Yong and Huang, Jun and Ma, Jiayi},
   journal={IEEE/CAA Journal of Automatica Sinica},
@@ -59,7 +59,7 @@
 ```
 
 ```
-@article{TTangSeAFusion,
+@article{TangSeAFusion,
 title = {Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network},
 author = {Linfeng Tang and Jiteng Yuan and Jiayi Ma},
 journal = {Information Fusion},
