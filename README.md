@@ -446,6 +446,16 @@ publisher={Elsevier}
         <td>无监督</td>
         <td>2023</td>
       </tr>
+      <tr>
+        <td>PSFusion</td>
+        <td>Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity</td>
+        <td><a href="https://www.sciencedirect.com/science/article/pii/S1566253523001860">Paper</a></td>
+        <td><a href="https://github.com/Linfeng-Tang/PSFusion" target="_blank" rel="noopener noreferrer">Code</a></td>        
+        <td>InfFus</td>
+        <td>CNN</td>
+        <td>无监督</td>
+        <td>2023</td>
+      </tr>
     </tbody>
     </table>
     
