@@ -1,5 +1,25 @@
 
 # 图像融合(Image Fusion)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=Linfeng-Tang/Image-Fusion&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=Linfeng-Tang/Image-Fusion&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=Linfeng-Tang/Image-Fusion&type=Date"
+  />
+</picture>
+
 ## News
 [2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)]
 
