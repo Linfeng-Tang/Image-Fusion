@@ -21,9 +21,12 @@
 </picture>
 
 ## News
-[2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)]
+[2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]([https://www.sciencedirect.com/science/article/pii/S1566253523001860](https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
 
 [2023-06-05] 我们的论文《[Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://www.sciencedirect.com/science/article/pii/S1566253523001860)》被《Information Fusion》正式接收！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253523001860)] [[Code](https://github.com/Linfeng-Tang/PSFusion)]
+
+[2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)]
+
 
 - [Citation](#citation)
 - [多模图像融合(Multi-Modal Image Fusion)](#多模图像融合multi-modal-image-fusion)
@@ -52,6 +55,15 @@
   number={1},
   pages={3--36},
   year={2023}
+}
+```
+
+```
+@inproceedings{Tang2024DRMF,
+    title={DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior},
+    author={Tang, Linfeng and Deng, Yuxin and Yi, Xunpeng and Yan, Qinglong and Yuan, Yixuan and Ma, Jiayi},
+    booktitle=Proceedings of the ACM International Conference on Multimedia,
+    year={2024}
 }
 ```
 
