@@ -66,6 +66,17 @@
     year={2024}
 }
 ```
+```
+@article{Tang2024CAMF,
+	title={CAMF: An Interpretable Infrared and Visible Image Fusion Network Based on Class Activation Mapping}, 
+	author={Tang, Linfeng and Chen, Ziang and Huang, Jun and Ma, Jiayi},
+	journal={IEEE Transactions on Multimedia}, 
+	year={2024},
+	volume={26},
+	pages={4776-4791},
+	publisher={IEEE}
+}
+```
 
 ```
 @article{Tang2022SuperFusion,
