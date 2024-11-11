@@ -62,7 +62,8 @@
 @inproceedings{Tang2024DRMF,
     title={DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior},
     author={Tang, Linfeng and Deng, Yuxin and Yi, Xunpeng and Yan, Qinglong and Yuan, Yixuan and Ma, Jiayi},
-    booktitle=Proceedings of the ACM International Conference on Multimedia,
+    booktitle={Proceedings of the ACM International Conference on Multimedia},
+    pages={8546--8555},
     year={2024}
 }
 ```
