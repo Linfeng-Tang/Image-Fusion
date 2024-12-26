@@ -21,6 +21,8 @@
 </picture>
 
 ## News
+[2024-12-26] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》荣获**中国图象图形学报优秀论文**！[[《中国图象图形学报》2024年优秀论文公布！](https://mp.weixin.qq.com/s?__biz=MzU1NzM4MjgzOA==&mid=2247536019&idx=1&sn=086193c8064ae58bc1f05de26faaee61&chksm=fd5fbf8076d2361d6ef7ab6ae9a4a0bfe2128cee68f8b84d4d0eec8e460b6e31c2a28b7b4073&mpshare=1&scene=2&srcid=1226nseqNYiwGuJAsbzgCHbT&sharer_shareinfo=ea7a242ef399774834ea54d3774fcbc4&sharer_shareinfo_first=ea7a242ef399774834ea54d3774fcbc4#rd)][[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
+
 [2024-11-28] 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获 **Information Fusion Best Paper Award 2024** (最佳论文奖)！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253521002542)] [[Code](https://github.com/Linfeng-Tang/SeAFusion)]
 
 [2024-09] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》入选**空天信息科技期刊高影响力论文** (全国共14篇)！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
