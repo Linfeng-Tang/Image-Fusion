@@ -60,6 +60,7 @@
 ## Citation
 如果我们的总结对你有所帮助, 请引用以下论文：
 
+```
 @article{Tang2024Mask-DiFuser,
   author={Tang, Linfeng and Li, Chunyu and Ma, Jiayi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
@@ -69,7 +70,9 @@
   number={},
   pages={1-18},
  }
+```
 
+```
 @article{Tang2024C2RF,
 	title={C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning}, 
 	author={Tang, Linfeng and Yan, Qinglong and Xiang, Xinyu and Fang, Leyuan and Ma, Jiayi},
@@ -78,6 +81,7 @@
 	volume={133},
 	year={2025},
 }
+```
 
 ```
 @article{Tang2022Survey,
