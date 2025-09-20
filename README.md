@@ -73,6 +73,15 @@
   pages={1-18},
  }
 ```
+```
+@article{Tang2025ControlFusion,
+  title={ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts},
+  author={Tang, Linfeng and Wang, Yeda and Cai, Zhanchuan and Jiang, Junjun and Ma, Jiayi},
+  journal={Advances in Neural Information Processing Systems},
+  year={2025}
+}
+
+```
 
 ```
 @article{Tang2024C2RF,
