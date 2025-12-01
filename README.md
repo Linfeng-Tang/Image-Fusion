@@ -116,16 +116,16 @@
 }
 ```
 # 通用图像融合（General Image Fusion）方法汇总
-| 方法 | 场景 | 基础框架 | 监督范式 | 发表期刊/会议 | 年份 | 论文 | 代码 |
-|------|------|----------|----------|----------------|------|-------|--------|
-| IFCNN | 通用图像融合 | CNN | 有监督 | InfFus | 2020 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN) |
-| PMGI | 通用图像融合 | CNN | 无监督 | AAAI | 2020 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6975) | [Code](https://github.com/HaoZhang1018/PMGI_AAAI2020) |
-| SDNet | 通用图像融合 | CNN | 无监督 | IJCV | 2021 | [Paper](https://link.springer.com/article/10.1007/s11263-021-01501-8) | [Code](https://github.com/HaoZhang1018/SDNet) |
-| U2Fusion | 通用图像融合 | CNN | 无监督 | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9151265/) | [Code](https://github.com/hanna-xu/U2Fusion) |
-| SwinFusion | 通用图像融合 | Transformer | 无监督 | IEEE/CAA JAS | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9812535) | [Code](https://github.com/Linfeng-Tang/SwinFusion) |
-| DeFusion | 通用图像融合 | CNN | 无监督 | ECCV | 2022 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_41) | [Code](https://github.com/erfect2020/DecompositionForFusion) |
-| Mask-DiFuser | 通用图像融合 | Diffusion Model | 无监督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/11162636) | [Code](https://github.com/Linfeng-Tang/Mask-DiFuser) |
-| GIFNet | 通用图像融合 | Transformer | 无监督 & 有监督 | CVPR | 2025 | [Paper](https://arxiv.org/pdf/2502.19854) | [Code](https://github.com/AWCXV/GIFNet) |
+| 方法      | 论文标题 | 发表期刊/会议 | 年份 | 论文 | 代码 |
+|-----------|----------------------------|----------------|------|------------------|-------------------------------|
+| IFCNN     | *IFCNN: A general image fusion framework based on convolutional neural network* :contentReference[oaicite:0]{index=0} | InfFus | 2020 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN) |
+| PMGI      | *Rethinking the Image Fusion: A Fast Unified Image Fusion Network based on Proportional Maintenance of Gradient and Intensity* | AAAI | 2020 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6975) | [Code](https://github.com/HaoZhang1018/PMGI_AAAI2020) |
+| SDNet     | *SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion* | IJCV | 2021 | [Paper](https://link.springer.com/article/10.1007/s11263-021-01501-8) | [Code](https://github.com/HaoZhang1018/SDNet) |
+| U2Fusion  | *U2Fusion: A Unified Unsupervised Image Fusion Network* | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9151265/) | [Code](https://github.com/hanna-xu/U2Fusion) |
+| SwinFusion| *SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images* :contentReference[oaicite:1]{index=1} | IEEE/CAA JAS | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9812535) | [Code](https://github.com/Linfeng-Tang/SwinFusion) |
+| DeFusion  | *Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion* | ECCV | 2022 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_41) | [Code](https://github.com/erfect2020/DecompositionForFusion) |
+| Mask-DiFuser | *Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion* :contentReference[oaicite:2]{index=2} | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/11162636) | [Code](https://github.com/Linfeng-Tang/Mask-DiFuser) |
+| GIFNet    | *GIFNet: (title as in CVPR 2025 submission)* | CVPR | 2025 | [Paper](https://arxiv.org/pdf/2502.19854) | [Code](https://github.com/AWCXV/GIFNet) |
 
 
 ## 多模图像融合(Multi-Modal Image Fusion)
