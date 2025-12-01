@@ -118,7 +118,7 @@
 # 通用图像融合（General Image Fusion）方法汇总
 | 方法      | 论文标题 | 发表期刊/会议 | 年份 | 论文 | 代码 |
 |-----------|----------------------------|----------------|------|------------------|-------------------------------|
-| IFCNN     | *IFCNN: A general image fusion framework based on convolutional neural network* :contentReference[oaicite:0]{index=0} | InfFus | 2020 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN) |
+| IFCNN     | *IFCNN: A general image fusion framework based on convolutional neural network*  | InfFus | 2020 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN) |
 | PMGI      | *Rethinking the Image Fusion: A Fast Unified Image Fusion Network based on Proportional Maintenance of Gradient and Intensity* | AAAI | 2020 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6975) | [Code](https://github.com/HaoZhang1018/PMGI_AAAI2020) |
 | SDNet     | *SDNet: A Versatile Squeeze-and-Decomposition Network for Real-Time Image Fusion* | IJCV | 2021 | [Paper](https://link.springer.com/article/10.1007/s11263-021-01501-8) | [Code](https://github.com/HaoZhang1018/SDNet) |
 | U2Fusion  | *U2Fusion: A Unified Unsupervised Image Fusion Network* | TPAMI | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9151265/) | [Code](https://github.com/hanna-xu/U2Fusion) |
