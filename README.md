@@ -25,24 +25,24 @@
 
 > [2025-9-18] 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **Advances in Neural Information Processing Systems (NeurIPS)** 正式接收! [[论文下载](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
 
-[2025-9-10] 我们的论文 [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636) 被 **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
+> [2025-9-10] 我们的论文 [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://ieeexplore.ieee.org/document/11162636) 被 **IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)** 正式接收! [[论文下载](https://ieeexplore.ieee.org/document/11162636)] [[Code](https://github.com/Linfeng-Tang/Mask-DiFuser)]
 
-[2025-3-15] 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://link.springer.com/article/10.1007/s11263-025-02427-1))》被《International Journal of Computer Vision》(IJCV)正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]
+> [2025-3-15] 我们的论文《[C2RF: Bridging Multi-modal Image Registration and Fusion via Commonality Mining and Contrastive Learning](https://link.springer.com/article/10.1007/s11263-025-02427-1))》被《International Journal of Computer Vision》(IJCV)正式接收！[[论文下载](https://link.springer.com/article/10.1007/s11263-025-02427-1)] [[Code](https://github.com/Linfeng-Tang/C2RF)]
 
-[2025-02-11] 我们发布了一个用于红外和可见光视频融合的大规模数据集：[M3SVD: Multi-Modal Multi-Scene Video Dataset](https://github.com/Linfeng-Tang/M3SVD).
+> [2025-02-11] 我们发布了一个用于红外和可见光视频融合的大规模数据集：[M3SVD: Multi-Modal Multi-Scene Video Dataset](https://github.com/Linfeng-Tang/M3SVD).
 
-[2024-12-26] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》荣获**中国图象图形学报2024优秀论文**！[[《中国图象图形学报》2024年优秀论文公布！](https://mp.weixin.qq.com/s?__biz=MzU1NzM4MjgzOA==&mid=2247536019&idx=1&sn=086193c8064ae58bc1f05de26faaee61&chksm=fd5fbf8076d2361d6ef7ab6ae9a4a0bfe2128cee68f8b84d4d0eec8e460b6e31c2a28b7b4073&mpshare=1&scene=2&srcid=1226nseqNYiwGuJAsbzgCHbT&sharer_shareinfo=ea7a242ef399774834ea54d3774fcbc4&sharer_shareinfo_first=ea7a242ef399774834ea54d3774fcbc4#rd)][[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
+> [2024-12-26] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》荣获**中国图象图形学报2024优秀论文**！[[《中国图象图形学报》2024年优秀论文公布！](https://mp.weixin.qq.com/s?__biz=MzU1NzM4MjgzOA==&mid=2247536019&idx=1&sn=086193c8064ae58bc1f05de26faaee61&chksm=fd5fbf8076d2361d6ef7ab6ae9a4a0bfe2128cee68f8b84d4d0eec8e460b6e31c2a28b7b4073&mpshare=1&scene=2&srcid=1226nseqNYiwGuJAsbzgCHbT&sharer_shareinfo=ea7a242ef399774834ea54d3774fcbc4&sharer_shareinfo_first=ea7a242ef399774834ea54d3774fcbc4#rd)][[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
 
-[2024-11-28] 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获 **Information Fusion Best Paper Award 2024** (最佳论文奖)！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253521002542)] [[Code](https://github.com/Linfeng-Tang/SeAFusion)]
+> [2024-11-28] 我们的论文(SeAFusion)《[Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network](https://www.sciencedirect.com/science/article/pii/S1566253521002542)》荣获 **Information Fusion Best Paper Award 2024** (最佳论文奖)！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253521002542)] [[Code](https://github.com/Linfeng-Tang/SeAFusion)]
 
-[2024-09] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》入选**空天信息科技期刊高影响力论文** (全国共14篇)！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
+> [2024-09] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》入选**空天信息科技期刊高影响力论文** (全国共14篇)！[[论文下载](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)] [[Code](https://github.com/Linfeng-Tang/Image-Fusion)]
 
 
-[2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]([https://www.sciencedirect.com/science/article/pii/S1566253523001860](https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
+> [2024-07-16] 我们的论文《[DRMF: Degradation-Robust Multi-Modal Image Fusion via Composable Diffusion Prior]([https://www.sciencedirect.com/science/article/pii/S1566253523001860](https://openreview.net/forum?id=BwXrlBweab))》被《ACM MM 2024》正式接收！[[论文下载](https://openreview.net/pdf?id=BwXrlBweab)] [[Code](https://github.com/Linfeng-Tang/DRMF)]
 
-[2023-06-05] 我们的论文《[Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://www.sciencedirect.com/science/article/pii/S1566253523001860)》被《Information Fusion》正式接收！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253523001860)] [[Code](https://github.com/Linfeng-Tang/PSFusion)]
+> [2023-06-05] 我们的论文《[Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://www.sciencedirect.com/science/article/pii/S1566253523001860)》被《Information Fusion》正式接收！[[论文下载](https://www.sciencedirect.com/science/article/pii/S1566253523001860)] [[Code](https://github.com/Linfeng-Tang/PSFusion)]
 
-[2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)]
+> [2022-07-29] 我们的综述论文《[基于深度学习的图像融合方法综述](http://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》被《中国图象图形学报》正式接收！[[论文下载](http://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)]
 
 
 - [Citation](#citation)
