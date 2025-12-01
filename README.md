@@ -115,36 +115,37 @@
     year={2024}
 }
 ```
-# 红外和可见光图像融合 (Infrared & Visible Image Fusion) — 方法与论文标题对应表
+# 红外和可见光图像融合 (Infrared & Visible Image Fusion)
 
-| 方法 | 论文标题 | 年份 | 论文链接 | 代码 |
-|------|----------|------|----------|------|
-| DenseFuse | DenseFuse: A Fusion Approach to Infrared and Visible Images | 2019 | https://ieeexplore.ieee.org/abstract/document/8580578 | https://github.com/hli1221/imagefusion_densefuse |
-| FusionGAN | FusionGAN: A Generative Adversarial Network for Infrared and Visible Image Fusion | 2019 | https://www.sciencedirect.com/science/article/pii/S1566253518301143 | https://github.com/jiayi-ma/FusionGAN |
-| RFN-Nest | NestFuse: An Infrared and Visible Image Fusion Architecture Based on Nest Connection and Spatial/Channel Attention Models | 2021 | https://www.sciencedirect.com/science/article/pii/S1566253521000440 | https://github.com/hli1221/imagefusion-rfn-nest |
-| CSF | Classification Saliency-Based Rule for Visible and Infrared Image Fusion | 2021 | https://ieeexplore.ieee.org/abstract/document/9502544 | https://github.com/hanna-xu/CSF |
-| SeAFusion | SeAFusion: Semantic-Aware Real-Time Infrared and Visible Image Fusion Network | 2022 | https://www.sciencedirect.com/science/article/pii/S1566253521002542 | https://github.com/Linfeng-Tang/SeAFusion |
-| TarDAL | Target-aware Dual Adversarial Learning and a Multi-scenario Multi-modality Benchmark for Infrared and Visible Fusion | 2022 | https://ieeexplore.ieee.org/document/9879642 | https://github.com/JinyuanLiu-CV/TarDAL |
-| PAIF | PAIF: Perception-Aware Infrared–Visible Image Fusion | 2023 | https://dl.acm.org/doi/abs/10.1145/3581783.3611928 | https://github.com/LiuZhu-CV/PAIF |
-| MURF | MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion | 2023 | https://ieeexplore.ieee.org/abstract/document/10145843 | https://github.com/autonomousvision/murf |
-| LRRNet | LRRNet: Learning Local and Global Representation for Infrared and Visible Image Fusion | 2023 | https://ieeexplore.ieee.org/abstract/document/10105495 | https://github.com/hli1221/imagefusion-LRRNet |
-| PSFusion | PSFusion: Progressive Semantic Injection and Scene-Fidelity Infrared and Visible Image Fusion | 2023 | https://www.sciencedirect.com/science/article/pii/S1566253523001860 | https://github.com/Linfeng-Tang/PSFusion |
-| SegMiF | SegMiF: Multi-interactive Feature Learning for Infrared and Visible Fusion | 2023 | https://ieeexplore.ieee.org/document/10377908 | https://github.com/JinyuanLiu-CV/SegMiF |
-| Text-IF | Text-IF: Text-Guided Infrared and Visible Image Fusion | 2024 | https://ieeexplore.ieee.org/document/10656870 | https://github.com/XunpengYi/Text-IF |
-| MRFS | MRFS: Mutually Reinforcing Fusion and Segmentation | 2024 | https://ieeexplore.ieee.org/document/10657039 | https://github.com/HaoZhang1018/MRFS |
-| FILM | FILM: Image Fusion with Vision-Language Models | 2024 | https://arxiv.org/pdf/2402.02235 | https://github.com/Zhaozixiang1228/IF-FILM |
-| TC-MoA | TC-MoA: Task-Customized Mixture of Adapters for Fusion | 2024 | https://ieeexplore.ieee.org/document/10655024 | https://github.com/YangSun22/TC-MoA |
-| ControlFusion | ControlFusion: Instruction-Guided Controllable Fusion | 2025 | https://arxiv.org/pdf/2503.23356 | https://github.com/Linfeng-Tang/ControlFusion |
-| SAGE | SAGE: From Data Compatibility to Task Adaptation for Fusion | 2025 | https://arxiv.org/pdf/2503.01210 | https://github.com/RollingPlain/SAGE_IVIF |
-| DCEvo | DCEvo: Discriminative Cross-Dimensional Evolutionary Fusion | 2025 | https://ieeexplore.ieee.org/document/11093606 | https://github.com/Beate-Suy-Zhang/DCEvo |
-| TDFusion | TDFusion: Task-Driven Infrared and Visible Image Fusion | 2025 | https://ieeexplore.ieee.org/abstract/document/11093987 | https://github.com/HaowenBai/TDFusion |
-| Dream-IF | Dream-IF: Degradation-Aware Diffusion Model for IVIF | 2025 | https://arxiv.org/pdf/2503.10109 | https://github.com/jehovahxu/Dream-IF |
-| FreeFusion | FreeFusion: Cross Reconstruction for IVIF | 2025 | https://ieeexplore.ieee.org/abstract/document/11010882 | https://github.com/HengshuaiCui/FreeFusion |
-| MulFS-CAP | MulFS-CAP: Multimodal Fusion-Supervised Cross-Modality Alignment | 2025 | https://ieeexplore.ieee.org/abstract/document/10856402 | https://github.com/YR0211/MulFS-CAP |
-| CDTFusion | CDTFusion: Cross-domain Text-guided Fusion | 2025 | https://ieeexplore.ieee.org/abstract/document/11181194/ | https://github.com/wangwenbo26/CDTFusion |
-| OmniFuse | OmniFuse: Composite Degradation-Robust Fusion | 2025 | https://ieeexplore.ieee.org/abstract/document/10994384/ | https://github.com/yuliangguo/OmniFusion |
-| FusionBooster | FusionBooster: Unified Image Fusion Boosting | 2025 | https://link.springer.com/article/10.1007/s11263-024-02266-6 | https://github.com/AWCXV/FusionBooster |
-| OCCO | OCCO: LVM-Guided Infrared and Visible Image Fusion Framework Based on Object-Aware and Contextual Contrastive Learning | 2025 | https://link.springer.com/article/10.1007/s11263-025-02507-2 | https://github.com/bociic/OCCO |
+| 方法 | 论文标题 | 年份 | 发表期刊/会议 | 论文 | 代码 |
+|------|----------|------|----------------|------|------|
+| DenseFuse | DenseFuse: A Fusion Approach to Infrared and Visible Images | 2019 | TIP | [Paper](https://ieeexplore.ieee.org/abstract/document/8580578) | [Code](https://github.com/hli1221/imagefusion_densefuse) |
+| FusionGAN | FusionGAN: A Generative Adversarial Network for Infrared and Visible Image Fusion | 2019 | InfFus | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518301143) | [Code](https://github.com/jiayi-ma/FusionGAN) |
+| RFN-Nest | NestFuse: An Infrared and Visible Image Fusion Architecture Based on Nest Connection and Spatial/Channel Attention Models | 2021 | InfFus | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521000440) | [Code](https://github.com/hli1221/imagefusion-rfn-nest) |
+| CSF | Classification Saliency-Based Rule for Visible and Infrared Image Fusion | 2021 | TCI | [Paper](https://ieeexplore.ieee.org/abstract/document/9502544) | [Code](https://github.com/hanna-xu/CSF) |
+| SeAFusion | SeAFusion: Semantic-Aware Real-Time Infrared and Visible Image Fusion Network | 2022 | InfFus | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542) | [Code](https://github.com/Linfeng-Tang/SeAFusion) |
+| TarDAL | Target-aware Dual Adversarial Learning and a Multi-scenario Multi-modality Benchmark for Infrared and Visible Fusion | 2022 | CVPR | [Paper](https://ieeexplore.ieee.org/document/9879642) | [Code](https://github.com/JinyuanLiu-CV/TarDAL) |
+| PAIF | PAIF: Perception-Aware Infrared–Visible Image Fusion | 2023 | ACM MM | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611928) | [Code](https://github.com/LiuZhu-CV/PAIF) |
+| MURF | MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion | 2023 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/10145843) | [Code](https://github.com/autonomousvision/murf) |
+| LRRNet | LRRNet: Learning Local and Global Representation for Infrared and Visible Image Fusion | 2023 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/10105495) | [Code](https://github.com/hli1221/imagefusion-LRRNet) |
+| PSFusion | PSFusion: Progressive Semantic Injection and Scene-Fidelity Infrared and Visible Image Fusion | 2023 | InfFus | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001860) | [Code](https://github.com/Linfeng-Tang/PSFusion) |
+| SegMiF | SegMiF: Multi-interactive Feature Learning for Infrared and Visible Fusion | 2023 | ICCV | [Paper](https://ieeexplore.ieee.org/document/10377908) | [Code](https://github.com/JinyuanLiu-CV/SegMiF) |
+| Text-IF | Text-IF: Text-Guided Infrared and Visible Image Fusion | 2024 | CVPR | [Paper](https://ieeexplore.ieee.org/document/10656870) | [Code](https://github.com/XunpengYi/Text-IF) |
+| MRFS | MRFS: Mutually Reinforcing Fusion and Segmentation | 2024 | CVPR | [Paper](https://ieeexplore.ieee.org/document/10657039) | [Code](https://github.com/HaoZhang1018/MRFS) |
+| FILM | FILM: Image Fusion with Vision-Language Models | 2024 | ICML | [Paper](https://arxiv.org/pdf/2402.02235) | [Code](https://github.com/Zhaozixiang1228/IF-FILM) |
+| TC-MoA | TC-MoA: Task-Customized Mixture of Adapters for Fusion | 2024 | CVPR | [Paper](https://ieeexplore.ieee.org/document/10655024) | [Code](https://github.com/YangSun22/TC-MoA) |
+| ControlFusion | ControlFusion: Instruction-Guided Controllable Fusion | 2025 | NeurIPS | [Paper](https://arxiv.org/pdf/2503.23356) | [Code](https://github.com/Linfeng-Tang/ControlFusion) |
+| SAGE | SAGE: From Data Compatibility to Task Adaptation for Fusion | 2025 | CVPR | [Paper](https://arxiv.org/pdf/2503.01210) | [Code](https://github.com/RollingPlain/SAGE_IVIF) |
+| DCEvo | DCEvo: Discriminative Cross-Dimensional Evolutionary Fusion | 2025 | CVPR | [Paper](https://ieeexplore.ieee.org/document/11093606) | [Code](https://github.com/Beate-Suy-Zhang/DCEvo) |
+| TDFusion | TDFusion: Task-Driven Infrared and Visible Image Fusion | 2025 | CVPR | [Paper](https://ieeexplore.ieee.org/abstract/document/11093987) | [Code](https://github.com/HaowenBai/TDFusion) |
+| Dream-IF | Dream-IF: Degradation-Aware Diffusion Model for IVIF | 2025 | arXiv | [Paper](https://arxiv.org/pdf/2503.10109) | [Code](https://github.com/jehovahxu/Dream-IF) |
+| FreeFusion | FreeFusion: Cross Reconstruction for IVIF | 2025 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/11010882) | [Code](https://github.com/HengshuaiCui/FreeFusion) |
+| MulFS-CAP | MulFS-CAP: Multimodal Fusion-Supervised Cross-Modality Alignment | 2025 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/10856402) | [Code](https://github.com/YR0211/MulFS-CAP) |
+| CDTFusion | CDTFusion: Cross-domain Text-guided Fusion | 2025 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194/) | [Code](https://github.com/wangwenbo26/CDTFusion) |
+| OmniFuse | OmniFuse: Composite Degradation-Robust Fusion | 2025 | TPAMI | [Paper](https://ieeexplore.ieee.org/abstract/document/10994384/) | [Code](https://github.com/yuliangguo/OmniFusion) |
+| FusionBooster | FusionBooster: Unified Image Fusion Boosting | 2025 | IJCV | [Paper](https://link.springer.com/article/10.1007/s11263-024-02266-6) | [Code](https://github.com/AWCXV/FusionBooster) |
+| OCCO | OCCO: LVM-Guided Infrared and Visible Image Fusion Framework Based on Object-Aware and Contextual Contrastive Learning | 2025 | IJCV | [Paper](https://link.springer.com/article/10.1007/s11263-025-02507-2) | [Code](https://github.com/bociic/OCCO) |
+
 
 # 通用图像融合（General Image Fusion）方法汇总
 | 方法      | 论文标题 | 发表期刊/会议 | 年份 | 论文 | 代码 |
