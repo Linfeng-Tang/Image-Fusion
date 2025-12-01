@@ -21,7 +21,7 @@
 </picture>
 
 ## News
-> [2024-12-26] 我们的综述《[基于深度学习的图像融合方法综述](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20230102&flag=1)》荣获**中国图象图形学报 2020-2024 优秀论文**！
+> [2024-12-26] 我们的综述《[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)》荣获**中国图象图形学报 2020-2024 优秀论文**！
 
 > [2025-9-18] 我们的论文 **"ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts"** 被 **Advances in Neural Information Processing Systems (NeurIPS)** 正式接收! [[论文下载](https://arxiv.org/pdf/2503.23356?)] [[Code](https://github.com/Linfeng-Tang/ControlFusion)]
 
