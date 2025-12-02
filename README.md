@@ -116,31 +116,42 @@
     year={2024}
 }
 ```
-# 红外和可见光图像融合(Infrared & Visible Image Fusion)方法汇总
+### 1. 红外和可见光图像融合 (Infrared & Visible Image Fusion)
+
+这一部分聚焦于 **IVIF**，从早期的卷积自编码器和 GAN，到近年来的 Vision-Language、Diffusion 与可控融合框架。
+
+- **分类说明**：
+  - **面向视觉融合**：侧重低层次视觉质量（细节、对比度、纹理）；
+  - **语义驱动融合**：引入检测/分割/文本等高层任务或语义先验；
+  - **联合配准融合**：同时学习配准与融合，解决对齐问题；
+  - **退化鲁棒融合**：针对噪声、模糊、低照度等场景。
+
 | 方法 | 论文标题 | 分类 | 基础框架 | 监督范式 | 发表期刊或会议 | 年份 | 论文 | 代码 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ControlFusion | ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts | 语义<br>驱动<br>融合 | Transformer | 无<br>监<br>督 | NeurIPS | 2025 | [Paper](https://arxiv.org/pdf/2503.23356) | [Code](https://github.com/Linfeng-Tang/ControlFusion) |
-| CDTFusion | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194/) | [Code](https://github.com/wangwenbo26/CDTFusion) |
+| CDTFusion | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | 面向<br>视觉<br>融合 | CNN | 无<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194/) | [Code](https://github.com/wangwenbo26/CDTFusion) |
 | DCEvo | DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | CVPR | 2025 | [Paper](https://ieeexplore.ieee.org/document/11093606) | [Code](https://github.com/Beate-Suy-Zhang/DCEvo) |
-| Dream‑IF | Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion | 退化<br>鲁棒<br>融合 | CNN&<br>Transformer | 有<br>监<br>督 | arXiv | 2025 | [Paper](https://arxiv.org/pdf/2503.10109) | [Code](https://github.com/jehovahxu/Dream-IF) |
+| Dream-IF | Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion | 退化<br>鲁棒<br>融合 | CNN&<br>Transformer | 有<br>监<br>督 | arXiv | 2025 | [Paper](https://arxiv.org/pdf/2503.10109) | [Code](https://github.com/jehovahxu/Dream-IF) |
 | SAGE | Every SAMDrop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | CVPR | 2025 | [Paper](https://arxiv.org/pdf/2503.01210) | [Code](https://github.com/RollingPlain/SAGE_IVIF) |
 | FreeFusion | FreeFusion: Infrared and Visible Image Fusion via Cross Reconstruction Learning | 退化<br>鲁棒<br>融合 | CNN | 有<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11010882) | [Code](https://github.com/HengshuaiCui/FreeFusion) |
 | FusionBooster | FusionBooster: A Unified Image Fusion Boosting Paradigm | 语义<br>驱动<br>融合 | AE | 有<br>监<br>督 | IJCV | 2025 | [Paper](https://link.springer.com/article/10.1007/s11263-024-02266-6) | [Code](https://github.com/AWCXV/FusionBooster) |
-| MulFS-CAP | MulFS-CAP: Multimodal Fusion-Supervised Cross-Modality Alignment Perception for Unregistered Infrared-Visible Image Fusion | 联合<br>配准<br>融合 | CNN | 有<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10856402) | [Code](https://github.com/YR0211/MulFS-CAP) |
+| MulFS-CAP | MulFS-CAP: Multimodal Fusion-Supervised Cross-Modality Alignment Perception for Unregistered Infrared-Visible Image Fusion | 语义<br>驱动<br>融合 | CNN | 有<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10856402) | [Code](https://github.com/YR0211/MulFS-CAP) |
 | OCCO | OCCO: LVM-Guided Infrared and Visible Image Fusion Framework Based on Object-Aware and Contextual Contrastive Learning | 联合<br>配准<br>融合 | CNN | 有<br>监<br>督 | IJCV | 2025 | [Paper](https://link.springer.com/article/10.1007/s11263-025-02507-2) | [Code](https://github.com/bociic/OCCO) |
 | OmniFuse | OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics | 联合<br>配准<br>融合 | Diffusion<br>Model | 有<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10994384/) | [Code](https://github.com/yuliangguo/OmniFusion) |
 | TDFusion | Task-driven Image Fusion with Learnable Fusion Loss | 语义<br>驱动<br>融合 | CNN&<br>Transformer | 无<br>监<br>督 | CVPR | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11093987) | [Code](https://github.com/HaowenBai/TDFusion) |
 | MRFS | MRFS: Mutually Reinforcing Image Fusion and Segmentation | 语义<br>驱动<br>融合 | CNN&<br>Transformer | 无<br>监<br>督 | CVPR | 2024 | [Paper](https://ieeexplore.ieee.org/document/10657039) | [Code](https://github.com/HaoZhang1018/MRFS) |
 | FILM | Image Fusion via Vision-Language Model | 语义<br>驱动<br>融合 | CNN&<br>Transformer | 无<br>监<br>督 | ICML | 2024 | [Paper](https://arxiv.org/pdf/2402.02235) | [Code](https://github.com/Zhaozixiang1228/IF-FILM) |
-| TC‑MoA | Task-Customized Mixture of Adapters for General Image Fusion | 面向<br>视觉<br>融合 | Transformer | 无<br>监<br>督 | CVPR | 2024 | [Paper](https://ieeexplore.ieee.org/document/10655024) | [Code](https://github.com/YangSun22/TC-MoA) |
+| TC-MoA | Task-Customized Mixture of Adapters for General Image Fusion | 面向<br>视觉<br>融合 | Transformer | 无<br>监<br>督 | CVPR | 2024 | [Paper](https://ieeexplore.ieee.org/document/10655024) | [Code](https://github.com/YangSun22/TC-MoA) |
 | Text-IF | Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion | 语义<br>驱动<br>融合 | Transformer | 无<br>监<br>督 | CVPR | 2024 | [Paper](https://ieeexplore.ieee.org/document/10656870) | [Code](https://github.com/XunpengYi/Text-IF) |
-| PSFusion | Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | InfFus | 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001860) | [Code](https://github.com/Linfeng-Tang/PSFusion) |
+| PSFusion | Rethinking the necessity of image fusion in high-level vision tasks... | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | InfFus | 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001860) | [Code](https://github.com/Linfeng-Tang/PSFusion) |
 | LRRNet | LRRNet: A Novel Representation Learning Guided Fusion Network for Infrared and Visible Images | 面向<br>视觉<br>融合 | CNN | 有<br>监<br>督 | TPAMI | 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10105495) | [Code](https://github.com/hli1221/imagefusion-LRRNet) |
 | MURF | MURF: Mutually Reinforcing Multi-Modal Image Registration and Fusion | 联合<br>配准<br>融合 | CNN | 无<br>监<br>督 | TPAMI | 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10145843) | [Code](https://github.com/autonomousvision/murf) |
 | SegMiF | Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation | 语义<br>驱动<br>融合 | CNN&<br>Transformer | 有<br>监<br>督 | ICCV | 2023 | [Paper](https://ieeexplore.ieee.org/document/10377908) | [Code](https://github.com/JinyuanLiu-CV/SegMiF) |
+| CAMF | AMF: An interpretable infrared and visible image fusion network based on class activation mapping | 面向<br>视觉<br>融合 | AE | 自<br>监<br>督 | TMM | 2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10288391/) | [Code](https://github.com/Linfeng-Tang/CAMF) |
 | PAIF | PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | ACM MM | 2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611928) | [Code](https://github.com/LiuZhu-CV/PAIF) |
 | SeAFusion | Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | InfFus | 2022 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521002542) | [Code](https://github.com/Linfeng-Tang/SeAFusion) |
-| TarDAL | Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection | 语义<br>驱动<br>融合 | GAN | 无<br>监<br>督 | CVPR | 2022 | [Paper](https://ieeexplore.ieee.org/document/9879642) | [Code](https://github.com/JinyuanLiu-CV/TarDAL) |
+| TarDAL | Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark... | 语义<br>驱动<br>融合 | GAN | 无<br>监<br>督 | CVPR | 2022 | [Paper](https://ieeexplore.ieee.org/document/9879642) | [Code](https://github.com/JinyuanLiu-CV/TarDAL) |
+| PIAFusion | PIAFusion: A progressive infrared and visible image fusion network based on illumination aware | 面向<br>视觉<br>融合 | CNN | 无<br>监<br>督 | InfFus | 2022 | [Paper](https://www.sciencedirect.com/science/article/pii/S156625352200032X) | [Code](https://github.com/Linfeng-Tang/PIAFusion) |
 | CSF | Classification Saliency-Based Rule for Visible and Infrared Image Fusion | 面向<br>视觉<br>融合 | AE | 无<br>监<br>督 | TCI | 2021 | [Paper](https://ieeexplore.ieee.org/abstract/document/9502544) | [Code](https://github.com/hanna-xu/CSF) |
 | RFN-Nest | RFN-Nest: An end-to-end residual fusion network for infrared and visible images | 面向<br>视觉<br>融合 | AE | 无<br>监<br>督 | InfFus | 2021 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253521000440) | [Code](https://github.com/hli1221/imagefusion-rfn-nest) |
 | FusionGAN | FusionGAN: A generative adversarial network for infrared and visible image fusion | 面向<br>视觉<br>融合 | GAN | 无<br>监<br>督 | InfFus | 2019 | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253518301143) | [Code](https://github.com/jiayi-ma/FusionGAN) |
