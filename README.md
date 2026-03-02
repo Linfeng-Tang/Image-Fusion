@@ -23,8 +23,6 @@
 ## News
 > **🔥 了解完整的论文列表和最新科研动态，请访问我的个人主页：[linfeng-tang.github.io](https://linfeng-tang.github.io/)**
 
-> **[2026-02-21]** 我们的论文 **《VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion》** 被 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)**正式接收！  [[论文下载](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
-
 > [2026-02-21] 我们的论文 **[VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion](https://arxiv.org/abs/2503.23359)** 被 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)** 正式接收！  [[论文下载](https://arxiv.org/abs/2503.23359)] [[Code](https://github.com/Linfeng-Tang/VideoFusion)]
 
 > [2025-11-26] 我们的综述**[基于深度学习的图像融合方法综述](https://www.cjig.cn/thesisDetails#10.11834/jig.220422&lang=zh)**荣获**中国图象图形学报 2020-2024 优秀论文**！
