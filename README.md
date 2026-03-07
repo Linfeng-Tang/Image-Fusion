@@ -132,6 +132,7 @@
 
 | 方法 | 论文标题 | 分类 | 基础框架 | 监督范式 | 发表期刊或会议 | 年份 | 论文 | 代码 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| MaeFuse | MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training | 语义<br>先验<br>融合 | AE | 无<br>监<br>督 | TIP | 2025 | [Paper](https://ieeexplore.ieee.org/document/10893688) | [Code](https://github.com/Henry-Lee-real/MaeFuse) |
 | ControlFusion | ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts | 语义<br>驱动<br>融合 | Transformer | 无<br>监<br>督 | NeurIPS | 2025 | [Paper](https://arxiv.org/pdf/2503.23356) | [Code](https://github.com/Linfeng-Tang/ControlFusion) |
 | CDTFusion | CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion | 面向<br>视觉<br>融合 | CNN | 无<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11181194/) | [Code](https://github.com/wangwenbo26/CDTFusion) |
 | DCEvo | DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion | 语义<br>驱动<br>融合 | CNN | 无<br>监<br>督 | CVPR | 2025 | [Paper](https://ieeexplore.ieee.org/document/11093606) | [Code](https://github.com/Beate-Suy-Zhang/DCEvo) |
@@ -179,6 +180,7 @@
 # 通用图像融合(General Image Fusion)方法汇总
 | 方法 | 论文标题 | 场景 | 基础框架 | 监督范式 | 发表期刊或会议 | 年份 | 论文 | 代码 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DiTFuse | Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach | 通用<br>图像<br>融合 | DiT | 有<br>监<br>督 | TPAMI | 2026 | [Paper](https://ieeexplore.ieee.org/document/11297852) | [Code](https://github.com/Henry-Lee-real/DiTFuse) |
 | Mask-DiFuser | Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion | 通用<br>图像<br>融合 | Diffusion<br>Model | 无<br>监<br>督 | TPAMI | 2025 | [Paper](https://ieeexplore.ieee.org/document/11162636) | [Code](https://github.com/Linfeng-Tang/Mask-DiFuser) |
 | GIFNet | One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion | 通用<br>图像<br>融合 | Transformer | 有<br>监<br>督 | CVPR | 2025 | [Paper](https://arxiv.org/pdf/2502.19854) | [Code](https://github.com/AWCXV/GIFNet) |
 | SwinFusion | SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer | 通用<br>图像<br>融合 | Transformer | 无<br>监<br>督 | IEEE/CAA JAS | 2022 | [Paper](https://ieeexplore.ieee.org/abstract/document/9812535) | [Code](https://github.com/Linfeng-Tang/SwinFusion) |
