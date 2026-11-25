@@ -1587,6 +1587,8 @@
 ## 评估指标(Evaluation Metric)
 ### 通用评估指标(General evaluation metric)
 通用评估指标位于：https://github.com/Linfeng-Tang/Image-Fusion/tree/main/General%20Evaluation%20Metric or https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion
+
+Python 实现（与 MATLAB 逐值校验 / Python port verified against MATLAB）：[fusion-metrics](https://github.com/VuVietAnh2309/fusion-metrics) — `pip install fusion-metrics`，包含 Q_ABF、MI、NCIE、FMI、FSIM、VIF 等 18 个指标，与原始 .m 文件误差 ≤ 1e-12。
 ### 遥感影像融合评估指标(Evaluation metric for pansharpening)
 
 
